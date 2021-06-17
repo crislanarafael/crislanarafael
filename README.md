@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey, I'm Crislana Rafael 👋
+
+Current intern at [InternHacks](https://internhacks.com/) <br>
+Incoming software engineering student at [Arizona State University](https://www.asu.edu/) **(Go Sun Devils!)** <br>
+
+
+
 
 <!--
 **crislanarafael/crislanarafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
