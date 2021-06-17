@@ -14,7 +14,7 @@ Sea Otter Enthusiast (Youtube's algorithm knows I like them sea otters) 🦦
 ### Connect with me at:
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) On my LinkedIn](https://www.linkedin.com/in/crislana-rafael/)
 - Random hackathons
-- Up in the sky (I fly occasionally) :airplane:
+- Up in the sky (I am a Private Pilot) :airplane:
 
 <!--
 **crislanarafael/crislanarafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
