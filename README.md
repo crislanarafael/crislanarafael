@@ -1,9 +1,10 @@
 ![](README_coverimage.png)
 
-### Hey, I'm Crislana Rafael 👋
+### About Me 👋
 
 Current intern at [InternHacks](https://internhacks.com/) <br>
 Incoming software engineering student at [Arizona State University](https://www.asu.edu/) **(Go Sun Devils!)** <br>
+Sea Otter Enthusiast (Youtube knows I like them sea otters)
 
 
 
