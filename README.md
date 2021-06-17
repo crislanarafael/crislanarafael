@@ -1,3 +1,5 @@
+![](README_coverimage.png)
+
 ### Hey, I'm Crislana Rafael 👋
 
 Current intern at [InternHacks](https://internhacks.com/) <br>
