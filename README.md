@@ -2,7 +2,7 @@
 
 Current intern at [InternHacks](https://internhacks.com/) :computer:<br>
 Incoming software engineering student at [Arizona State University](https://www.asu.edu/) **(Go Sun Devils!)** :sunny:<br>
-Sea Otter Enthusiast (Youtube knows I like them sea otters) 🦦
+Sea Otter Enthusiast (Youtube's algorithm knows I like them sea otters) 🦦
 
 ### What I'm currently working on:
 - Landing my first tech internship <br>
