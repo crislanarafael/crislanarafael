@@ -10,7 +10,7 @@ Sea Otter Enthusiast (Youtube's algorithm knows I like them sea otters) 🦦
 - Learning about APIs with Postman <br>
 - Web and Mobile Development with Python <br>
 - Learning how to contribute to open source <br>
-- Creating a technical blog <br>
+- Creating a technical blog - currently writing on [CodeNewbie](https://community.codenewbie.org/crislanarafael) <br>
 
 ### Connect with me at:
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) On my LinkedIn](https://www.linkedin.com/in/crislana-rafael/)
