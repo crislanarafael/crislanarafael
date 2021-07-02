@@ -6,6 +6,7 @@ Incoming software engineering student at [Arizona State University](https://www.
 Sea Otter Enthusiast (Youtube's algorithm knows I like them sea otters) 🦦
 
 ### What I'm currently working on:
+- InternHacks team project for Build Day at the end of July
 - Landing my first tech internship <br>
 - Learning about APIs with Postman <br>
 - Web and Mobile Development with Python <br>
