@@ -4,9 +4,10 @@ EdTech Fellow (Front-End Development) at [Menon Labs](https://www.menonlabs.com/
 Current Back-End Developer Fellow at [Technica](https://gotechnica.org/) :computer:<br>
 Software Engineering student at [Arizona State University](https://www.asu.edu/) **(Go Sun Devils!)** :sunny:<br>
 Former Applied Science for Engineering Diploma student at [Langara College](https://langara.ca/) **Class of 2021 - Graduation with Distinction**:mortar_board: <br>
-Sea Otter Enthusiast (Youtube's algorithm knows I like them sea otters) 🦦
+Sea Otter Enthusiast (Youtube's algorithm knows I like them sea otters) 🦦<br>
 
-### What I'm currently working on:
+
+## What I'm currently working on:
 - Learning Vue as part of my Fellowship with Technica
 - Landing my first tech internship <br>
 - Learning about APIs with Postman <br>
@@ -14,7 +15,9 @@ Sea Otter Enthusiast (Youtube's algorithm knows I like them sea otters) 🦦
 - Learning how to contribute to open source - I'm participating in Hacktoberfest 2021 <br>
 - Creating a technical blog - currently writing on [CodeNewbie](https://community.codenewbie.org/crislanarafael) <br>
 
-### Connect with me at:
+## 
+
+## Connect with me at:
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) On my LinkedIn](https://www.linkedin.com/in/crislana-rafael/)
 - Random hackathons
 - Up in the sky (I am a Private Pilot) :airplane:
