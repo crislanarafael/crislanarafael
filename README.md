@@ -11,7 +11,7 @@ Sea Otter Enthusiast (Youtube's algorithm knows I like them sea otters) 🦦<br>
 - Learning Vue as part of my Fellowship with Technica
 - Landing my first tech internship <br>
 - Learning about APIs with Postman <br>
-- Web and Mobile Development with Python <br>
+- Computer Vision with Python <br>
 - Learning how to contribute to open source - I'm participating in Hacktoberfest 2021 <br>
 - Creating a technical blog - currently writing on [CodeNewbie](https://community.codenewbie.org/crislanarafael) <br>
 
