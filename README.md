@@ -14,7 +14,7 @@
 - Getting involved with organizing hackathons <br>
 - Computer Vision with Python <br>
 - Learning how to contribute to open source - I'm participating in Hacktoberfest 2021 <br>
-- Creating a technical blog - currently writing on [CodeNewbie](https://community.codenewbie.org/crislanarafael) <br>
+- Creating a technical blog - I am currently writing on [CodeNewbie](https://community.codenewbie.org/crislanarafael) <br>
 
 ## Languages and Technologies 💻
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://shields.io/)
