@@ -8,7 +8,7 @@ Sea Otter Enthusiast (Youtube's algorithm knows I like them sea otters) 🦦<br>
 
 
 ## What I'm currently working on:
-- Learning Vue as part of my Fellowship with Technica
+- Learning Vue, NodeJS, AWS, and DynamoDB as part of my Fellowship with Technica
 - Landing my first tech internship <br>
 - Learning about APIs with Postman <br>
 - Computer Vision with Python <br>
