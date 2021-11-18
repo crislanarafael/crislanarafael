@@ -11,6 +11,7 @@
 - Learning Vue, NodeJS, AWS, and DynamoDB as part of my Fellowship with Technica
 - Landing my first tech internship <br>
 - Learning about APIs with Postman <br>
+- Getting involved with organizing hackathons <br>
 - Computer Vision with Python <br>
 - Learning how to contribute to open source - I'm participating in Hacktoberfest 2021 <br>
 - Creating a technical blog - currently writing on [CodeNewbie](https://community.codenewbie.org/crislanarafael) <br>
