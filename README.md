@@ -7,7 +7,7 @@ Former Applied Science for Engineering Diploma student at [Langara College](http
 Sea Otter Enthusiast (Youtube's algorithm knows I like them sea otters) 🦦<br>
 
 
-## What I'm currently working on:
+## What I'm currently working on 👩‍💻
 - Learning Vue, NodeJS, AWS, and DynamoDB as part of my Fellowship with Technica
 - Landing my first tech internship <br>
 - Learning about APIs with Postman <br>
@@ -15,7 +15,7 @@ Sea Otter Enthusiast (Youtube's algorithm knows I like them sea otters) 🦦<br>
 - Learning how to contribute to open source - I'm participating in Hacktoberfest 2021 <br>
 - Creating a technical blog - currently writing on [CodeNewbie](https://community.codenewbie.org/crislanarafael) <br>
 
-## Languages and Technologies:
+## Languages and Technologies 💻
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://shields.io/)
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://shields.io/)
 [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://shields.io/)
@@ -24,7 +24,7 @@ Sea Otter Enthusiast (Youtube's algorithm knows I like them sea otters) 🦦<br>
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://shields.io/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://shields.io/)
 
-## Connect with me at:
+## Connect with me at 📬
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) On my LinkedIn](https://www.linkedin.com/in/crislana-rafael/)
 - Random hackathons
 - Up in the sky (I am a Private Pilot) :airplane:
