@@ -1,10 +1,10 @@
 ![](README_coverimage.png)
-
-Current EdTech Fellow (Front-End Development) at [Menon Labs](https://www.menonlabs.com/) :computer:<br>
-Back-End Developer Fellow at [Technica](https://gotechnica.org/) :computer:<br>
-Software Engineering student at [Arizona State University](https://www.asu.edu/) **(Go Sun Devils!)** :sunny:<br>
-Former Applied Science for Engineering Diploma student at [Langara College](https://langara.ca/) **Class of 2021 - Graduation with Distinction**:mortar_board: <br>
-Sea Otter Enthusiast (Youtube's algorithm knows I like them sea otters) 🦦<br>
+## 👋 About Me:
+- [x] Current EdTech Fellow (Front-End Development) at [Menon Labs](https://www.menonlabs.com/) :computer:<br>
+- [x] Back-End Developer Fellow at [Technica](https://gotechnica.org/) :computer:<br>
+- [x] Software Engineering student at [Arizona State University](https://www.asu.edu/) **(Go Sun Devils!)** :sunny:<br>
+- [x] Former Applied Science for Engineering Diploma student at [Langara College](https://langara.ca/) **Class of 2021 - Graduation with Distinction**:mortar_board: <br>
+- [x] Sea Otter Enthusiast (Youtube's algorithm knows I like them sea otters) 🦦<br>
 
 
 ## What I'm currently working on 👩‍💻
