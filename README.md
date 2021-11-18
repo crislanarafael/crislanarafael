@@ -8,8 +8,8 @@
 
 
 ## What I'm currently working on 👩‍💻
+- *Landing my first tech internship for Summer 2022 and beyond* <br>
 - Learning Vue, NodeJS, AWS, and DynamoDB as part of my Fellowship with Technica
-- Landing my first tech internship <br>
 - Learning about APIs with Postman <br>
 - Getting involved with organizing hackathons <br>
 - Computer Vision with Python <br>
