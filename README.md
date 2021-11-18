@@ -1,7 +1,7 @@
 ![](README_coverimage.png)
 
-Current Back-End Developer Fellow at [Technica](https://gotechnica.org/) :computer:<br>
 EdTech Fellow (Front-End Development) at [Menon Labs](https://www.menonlabs.com/) :computer:<br>
+Current Back-End Developer Fellow at [Technica](https://gotechnica.org/) :computer:<br>
 Software Engineering student at [Arizona State University](https://www.asu.edu/) **(Go Sun Devils!)** :sunny:<br>
 Former Applied Science for Engineering Diploma student at [Langara College](https://langara.ca/) **Class of 2021 - Graduation with Distinction**:mortar_board: <br>
 Sea Otter Enthusiast (Youtube's algorithm knows I like them sea otters) 🦦
