@@ -1,5 +1,6 @@
 ![](README_coverimage.png)
 ## 👋 About Me:
+- [x] Incoming CodePath Android Development Student (Intro to Mobile App Development) at [CodePath](https://codepath.org/) :computer:<br>
 - [x] Current EdTech Fellow (Front-End Development) at [Menon Labs](https://www.menonlabs.com/) :computer:<br>
 - [x] Back-End Developer Fellow at [Technica](https://gotechnica.org/) :computer:<br>
 - [x] Software Engineering student at [Arizona State University](https://www.asu.edu/) **(Go Sun Devils!)** :sunny:<br>
@@ -9,7 +10,8 @@
 
 ## What I'm currently working on 👩‍💻
 - *Landing my first tech internship for Summer 2022 and beyond* <br>
-- Learning Vue, NodeJS, AWS, and DynamoDB as part of my Fellowship with Technica
+- Learning Vue, NodeJS, AWS, and DynamoDB as part of my Fellowship with Technica <br>
+- Learning Android app development <br>
 - Learning about APIs with Postman <br>
 - Getting involved with organizing hackathons <br>
 - Computer Vision with Python <br>
