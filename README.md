@@ -1,6 +1,6 @@
 ![](README_coverimage.png)
 ## 👋 About Me:
-- [x] Incoming CodePath Android Development Student (Intro to Mobile App Development) at [CodePath](https://codepath.org/) :computer:<br>
+- [x] Incoming (Feb. 2022) CodePath Android Development Student (Intro to Mobile App Development) at [CodePath](https://codepath.org/) :computer:<br>
 - [x] Current EdTech Fellow (Front-End Development) at [Menon Labs](https://www.menonlabs.com/) :computer:<br>
 - [x] Back-End Developer Fellow at [Technica](https://gotechnica.org/) :computer:<br>
 - [x] Software Engineering student at [Arizona State University](https://www.asu.edu/) **(Go Sun Devils!)** :sunny:<br>
