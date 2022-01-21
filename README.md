@@ -11,7 +11,7 @@
 ## What I'm currently working on 👩‍💻
 - *Landing my first tech internship for Summer 2022 and beyond* <br>
 - Learning Vue, NodeJS, AWS, and DynamoDB as part of my Fellowship with Technica <br>
-- Learning Android app development <br>
+- Learning Android app development **Update: I'll be working through Rahul Pandey's Android course he taught at Stanford University!**<br>
 - Learning about APIs with Postman <br>
 - Getting involved with organizing hackathons - **Update: As of Dec. 2021 I'm part of the IT Exec Team for ElleHacks 2022!**<br>
 - Learning how to contribute to open source - I'm participating in Hacktoberfest 2021 <br>
