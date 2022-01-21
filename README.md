@@ -14,7 +14,6 @@
 - Learning Android app development <br>
 - Learning about APIs with Postman <br>
 - Getting involved with organizing hackathons - **Update: As of Dec. 2021 I'm part of the IT Exec Team for ElleHacks 2022!**<br>
-- Computer Vision with Python <br>
 - Learning how to contribute to open source - I'm participating in Hacktoberfest 2021 <br>
 - Creating a technical blog - I am currently writing on [CodeNewbie](https://community.codenewbie.org/crislanarafael) <br>
 
