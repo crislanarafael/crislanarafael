@@ -25,7 +25,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://shields.io/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://shields.io/)
 
-## Connect with me at 📬
+## Connect with me @ 📬
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) On my LinkedIn](https://www.linkedin.com/in/crislana-rafael/)
 - Random hackathons
 - Up in the sky (I am a Private Pilot) :airplane:
