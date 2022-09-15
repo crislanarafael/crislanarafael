@@ -1,7 +1,9 @@
 ![](README_coverimage.png)
 ## 👋 About Me:
 - [x] Interned @ Google Summer 2022 :computer:<br>
-- [x] Fall 2022 Intermediate Android Development Student @ [CodePath](https://codepath.org/) :computer:<br>
+- [x] 2022 Grace Hopper ASU Scholarship Recipient :trophy:<br>
+- [x] Fall 2022 Intermediate Android Development Student @ [CodePath](https://codepath.org/) :woman:<br>
+- [x] Current 2022-2023 Rising Student Leader @ [Rewriting the Code](https://rewritingthecode.org/) :computer:<br>
 - [x] Former Back-End Developer Fellow at [Technica](https://gotechnica.org/) :computer:<br>
 - [x] Software Engineering student at [Arizona State University](https://www.asu.edu/) **(Go Sun Devils!)** :sunny:<br>
 - [x] Former Applied Science for Engineering Diploma student at [Langara College](https://langara.ca/) **Class of 2021 - Graduation with Distinction**:mortar_board: <br>
@@ -27,7 +29,7 @@
 
 ## Connect with me @ 📬
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) On my LinkedIn](https://www.linkedin.com/in/crislana-rafael/)
-- Random hackathons
+- Random hackathons/conferences/events (I'm around!)
 - Up in the sky (I am a Private Pilot) :airplane:
 
 <!--
