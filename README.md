@@ -1,6 +1,6 @@
 ![](README_coverimage.png)
 ## 👋 About Me:
-- [x] Incoming Summer Intern at FAANG :computer:<br>
+- [x] Interned @ Google Summer 2022 :computer:<br>
 - [x] Fall 2022 Intermediate Android Development Student @ [CodePath](https://codepath.org/) :computer:<br>
 - [x] Former Back-End Developer Fellow at [Technica](https://gotechnica.org/) :computer:<br>
 - [x] Software Engineering student at [Arizona State University](https://www.asu.edu/) **(Go Sun Devils!)** :sunny:<br>
@@ -9,10 +9,10 @@
 
 
 ## What I'm currently working on 👩‍💻
-- Learning Android app development through Google's Android Basics course<br>
-- Learning Vue, NodeJS, AWS, and DynamoDB as part of my Fellowship with Technica <br>
+- Learning Android app development through Google's Android Basics course/CodePath<br>
+- LearnED Vue, NodeJS, AWS, and DynamoDB as part of my Fellowship with Technica (September 2021 - November 2021) <br>
 - Learning about APIs with Postman <br>
-- Getting involved with organizing hackathons - **Update: As of Dec. 2021 I'm part of the IT Exec Team for ElleHacks 2022!**<br>
+- Getting involved with organizing hackathons/tech community - **Prev: ElleHacks 2022 Executive Team**<br>
 - Learning how to contribute to open source - Successfully participated in Hacktoberfest 2021 <br>
 - Creating a technical blog - I am currently writing on [CodeNewbie](https://community.codenewbie.org/crislanarafael) <br>
 
