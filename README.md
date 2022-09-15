@@ -1,7 +1,7 @@
 ![](README_coverimage.png)
 ## 👋 About Me:
 - [x] Incoming Summer Intern at FAANG :computer:<br>
-- [x] Summer 2022 Technical Interview Prep Student (Advanced Track) @ [CodePath](https://codepath.org/) :computer:<br>
+- [x] Fall 2022 Intermediate Android Development Student @ [CodePath](https://codepath.org/) :computer:<br>
 - [x] Former Back-End Developer Fellow at [Technica](https://gotechnica.org/) :computer:<br>
 - [x] Software Engineering student at [Arizona State University](https://www.asu.edu/) **(Go Sun Devils!)** :sunny:<br>
 - [x] Former Applied Science for Engineering Diploma student at [Langara College](https://langara.ca/) **Class of 2021 - Graduation with Distinction**:mortar_board: <br>
