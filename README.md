@@ -1,9 +1,9 @@
 ![](README_coverimage.png)
 ## 👋 About Me:
-- [x] Interned @ Google Summer 2022 :computer:<br>
-- [x] 2022 Grace Hopper ASU Scholarship Recipient :trophy:<br>
+- [x] Interned @ Google Summer 2022 & Summer 2023 :computer:<br>
+- [x] 2022 Grace Hopper ASU Scholarship Recipient / 2023 NCWIT and Bloomberg Grace Hopper Scholarship Recipient :trophy:<br>
 - [x] Fall 2022 Intermediate Android Development Student @ [CodePath](https://codepath.org/) :woman:<br>
-- [x] Current 2022-2023 Rising Student Leader @ [Rewriting the Code](https://rewritingthecode.org/) :computer:<br>
+- [x] Current 2022-2023 and 2023-2024 Rising Student Leader @ [Rewriting the Code](https://rewritingthecode.org/) :computer:<br>
 - [x] Former Back-End Developer Fellow at [Technica](https://gotechnica.org/) :computer:<br>
 - [x] Software Engineering student at [Arizona State University](https://www.asu.edu/) **(Go Sun Devils!)** :sunny:<br>
 - [x] Former Applied Science for Engineering Diploma student at [Langara College](https://langara.ca/) **Class of 2021 - Graduation with Distinction**:mortar_board: <br>
